@@ -1,0 +1,25 @@
+body, html {
+    margin: 50;
+    padding: 20px;
+    height: 100%;
+}
+#principal {
+    min-height: 100vh;
+    background-image: url('./images/fondo1.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px;
+}
+
+h1{
+    font: optional;font-style: italic;
+    color:blueviolet
+}
+h2{
+    font: optional;font-style: italic;
+} 
+ul{
+    font: optional;font-style: italic;
+}
